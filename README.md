@@ -1,1 +1,1 @@
-# azure-function-mailgun-extension
+# Mailgun extension for Azure Functions
